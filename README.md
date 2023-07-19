@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho apenas 17 anos, estou prestes a concluir o curso de Gestão Administrativa no momento estou estudando Desenvolvimento full stack para me tornar um profissional completo e versátil no mercado. Meu perfil no LinkedIn reflete minha paixão por tecnologia e minha ambição de construir uma carreira de sucesso no mundo digital. Como um jovem empreendedor, estou sempre em busca de novos desafios e oportunidades para crescer e aprender. Com habilidades em constante evolução e uma determinação inabalável, estou confiante em minha capacidade de alcançar meus objetivos e fazer uma grande diferença no mundo!
+Tenho apenas 17 anos, estou prestes a concluir o curso de Gestão Administrativa no momento estou estudando Desenvolvimento back-end para me tornar um profissional completo e versátil no mercado. Meu perfil no Github reflete minha paixão por tecnologia e minha ambição de construir uma carreira de sucesso no mundo digital. Como um jovem empreendedor, estou sempre em busca de novos desafios e oportunidades para crescer e aprender. Com habilidades em constante evolução e uma determinação inabalável, estou confiante em minha capacidade de alcançar meus objetivos e fazer uma grande diferença no mundo!
 
 
 ## 🌐 Socials:
