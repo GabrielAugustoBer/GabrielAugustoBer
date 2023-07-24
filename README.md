@@ -1,5 +1,11 @@
 # 💫 About Me:
-Tenho apenas 17 anos, estou prestes a concluir o curso de Gestão Administrativa no momento estou estudando Desenvolvimento back-end para me tornar um profissional completo e versátil no mercado. Meu perfil no Github reflete minha paixão por tecnologia e minha ambição de construir uma carreira de sucesso no mundo digital. Como um jovem empreendedor, estou sempre em busca de novos desafios e oportunidades para crescer e aprender. Com habilidades em constante evolução e uma determinação inabalável, estou confiante em minha capacidade de alcançar meus objetivos e fazer uma grande diferença no mundo!
+🚀 Jovem entusiasta de tecnologia com 18 anos e uma paixão pela área de desenvolvimento back-end! 🖥️ Atualmente, estou prestes a concluir meu curso técnico em Gestão Administrativa, que me proporcionou uma base sólida em organização e gerenciamento de projetos.
+
+💡 Minha jornada na tecnologia começou cedo, e agora estou totalmente comprometido em aprimorar minhas habilidades como desenvolvedor back-end, criando soluções inovadoras e eficientes para os desafios digitais de hoje. 💡
+
+🌟 Além de uma mente curiosa e apaixonada por aprender, sou determinado a enfrentar novos desafios e constantemente expandir meus conhecimentos em desenvolvimento de software. Acredito que a tecnologia é a chave para moldar o futuro e tornar o mundo um lugar melhor para todos.
+
+🔧 Se você estiver em busca de um colaborador pró-ativo, comprometido e pronto para fazer a diferença no mundo da tecnologia, estou ansioso para conectar-me com profissionais e empresas que compartilham a mesma visão!
 
 
 ## 🌐 Socials:
