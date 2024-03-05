@@ -16,11 +16,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GabrielAugustoBer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
-<a href="https://app.daily.dev/gabrielkira"><img src="https://api.daily.dev/devcards/75fab9296365494e90334fe2e8a46c6b.png?r=4w6" width="400" alt="Gabriel Augusto Bernardes's Dev Card"/></a>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielAugustoBer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoBer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
