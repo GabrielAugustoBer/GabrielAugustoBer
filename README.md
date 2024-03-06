@@ -1,9 +1,9 @@
+Olá (https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
+
 # 💫 About Me:
-🚀 Jovem entusiasta de tecnologia com 18 anos e uma paixão pela área de desenvolvimento back-end! 🖥️ Atualmente, estou prestes a concluir meu curso técnico em Gestão Administrativa, que me proporcionou uma base sólida em organização e gerenciamento de projetos.
+Jovem entusiasta de tecnologia com 18 anos e uma paixão pela área de desenvolvimento back-end! Atualmente, conclui meu curso técnico em Gestão Administrativa, que me proporcionou uma base sólida em organização e gerenciamento de projetos.
 
-💡 Minha jornada na tecnologia começou cedo, e agora estou totalmente comprometido em aprimorar minhas habilidades como desenvolvedor back-end, criando soluções inovadoras e eficientes para os desafios digitais de hoje. 💡
-
-🌟 Além de uma mente curiosa e apaixonada por aprender, sou determinado a enfrentar novos desafios e constantemente expandir meus conhecimentos em desenvolvimento de software. Acredito que a tecnologia é a chave para moldar o futuro e tornar o mundo um lugar melhor para todos.
+Minha jornada na tecnologia começou cedo, e agora estou totalmente comprometido em aprimorar minhas habilidades como desenvolvedor back-end, criando soluções inovadoras e eficientes para os desafios digitais de hoje. 
 
 🔧 Se você estiver em busca de um colaborador pró-ativo, comprometido e pronto para fazer a diferença no mundo da tecnologia, estou ansioso para conectar-me com profissionais e empresas que compartilham a mesma visão!
 
