@@ -1,4 +1,5 @@
-Olá, me chamo Gabriel ![hello](https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
+Olá, me chamo Gabriel <h1 style="color: black">
+![hello](https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)<h1>
 
 # 💫 About Me:
 Jovem entusiasta de tecnologia com 18 anos e uma paixão pela área de desenvolvimento back-end! Atualmente, conclui meu curso técnico em Gestão Administrativa, que me proporcionou uma base sólida em organização e gerenciamento de projetos.
@@ -19,5 +20,3 @@ Minha jornada na tecnologia começou cedo, e agora estou totalmente comprometido
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielAugustoBer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
