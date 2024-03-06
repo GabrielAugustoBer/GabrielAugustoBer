@@ -5,7 +5,7 @@ Jovem entusiasta de tecnologia com 18 anos e uma paixão pela área de desenvolv
 
 Minha jornada na tecnologia começou cedo, e agora estou totalmente comprometido em aprimorar minhas habilidades como desenvolvedor back-end, criando soluções inovadoras e eficientes para os desafios digitais de hoje. 
 
-🔧 Se você estiver em busca de um colaborador pró-ativo, comprometido e pronto para fazer a diferença no mundo da tecnologia, estou ansioso para conectar-me com profissionais e empresas que compartilham a mesma visão!
+Se você estiver em busca de um colaborador pró-ativo, comprometido e pronto para fazer a diferença no mundo da tecnologia, estou ansioso para conectar-me com profissionais e empresas que compartilham a mesma visão!
 
 
 ## 🌐 Socials:
