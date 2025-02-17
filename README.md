@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">I am 19 years old, passionate about technology, and focused on web development. I completed a technical course in Administrative Management, which provided me with a solid foundation in organization and project management.<br><br>Currently, I am dedicated to improving my skills as a web developer, seeking innovative solutions for digital challenges.<br><br>I am always learning and ready to face new challenges. I believe technology can transform the future, and I want to contribute to that.<br><br>I am open to collaborating with companies and professionals who share this vision.</p>
 
 ###
