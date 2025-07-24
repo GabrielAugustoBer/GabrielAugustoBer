@@ -1,4 +1,7 @@
-<img src="./github-header-image.png" alt="header-image" align="center">
+
+<p align="center">
+  <img src="./github-header-image.png" alt="header-image">
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
