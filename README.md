@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 Você pode me encontrar por aqui:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-ber/) 
-- ✉️ gabriel.linobernardes@gmail.com
+- ✉️ [E-mail](malito:gabriel.linobernardes@gmail.com)
 - 🌐 Em breve: meu portfólio online!
 
 **Obrigado por visitar meu perfil!** 🚀  
