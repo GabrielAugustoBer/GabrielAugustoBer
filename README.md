@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="./github-header-image.png" alt="header-image">
-</p>
-
-
 # 👋 Olá, eu sou o Gabriel Augusto!
 
 🎯 Desenvolvedor Web em constante evolução, movido pela curiosidade e pela vontade de transformar ideias em soluções reais. Sou de Minas Gerais 🇧🇷 e acredito que a tecnologia é uma ponte poderosa entre pessoas, oportunidades e o futuro.
@@ -42,7 +36,7 @@
 Você pode me encontrar por aqui:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-ber/) 
-- ✉️ [E-mail](malito:gabriel.linobernardes@gmail.com)
+- ✉️ gabriel.linobernardes@gmail.com
 - 🌐 Em breve: meu portfólio online!
 
 **Obrigado por visitar meu perfil!** 🚀  
