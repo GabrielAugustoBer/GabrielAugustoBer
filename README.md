@@ -1,44 +1,53 @@
-# 👋 Olá, eu sou o Gabriel Augusto!
+<h1 align="left">Gabriel Augusto</h1>
 
-🎯 Desenvolvedor Web em constante evolução, movido pela curiosidade e pela vontade de transformar ideias em soluções reais. Sou de Minas Gerais 🇧🇷 e acredito que a tecnologia é uma ponte poderosa entre pessoas, oportunidades e o futuro.
+###
 
-## 🚀 Sobre mim
+<h3 align="left">Suporte ao Cliente | CX | SAP ERP | Graduando em Ciência da Computação | Tech Enthusiast</h3>
 
-- 🎓 Formação técnica em **Gestão Administrativa**
-- 💻 Atualmente focado em **Desenvolvimento Front-End**
-- 🌐 Experiência com:
-  - **React.js**
-  - **HTML5 / CSS3**
-  - **Tailwind CSS**
-  - **JavaScript (ES6+)**
-  - **Git e GitHub**
-  - **Acessibilidade e Responsividade**
+###
 
-- 📚 Sempre aprendendo mais sobre **acessibilidade, boas práticas de UI/UX** e como tornar a web mais inclusiva e performática.
+<p align="left">🎓 Graduando Ciência da Computação - Uniube<br><br>🎓 Formação técnica em Gestão Administrativa - IFP<br><br>💻 Atualmente focado em Desenvolvimento Front-End<br><br>🌐 Experiência com:<br><br>React.js<br>HTML5 / CSS3<br>Tailwind CSS<br>JavaScript (ES6+)<br>Git e GitHub<br>Acessibilidade e Responsividade<br><br>📚 Sempre aprendendo mais sobre acessibilidade, boas práticas de UI/UX e como tornar a web mais inclusiva e performática.<br><br>📍 Buscando oportunidades onde eu possa crescer profissionalmente e contribuir com projetos que fazem a diferença.</p>
 
-- 📍 Buscando oportunidades onde eu possa crescer profissionalmente e contribuir com projetos que fazem a diferença.
+###
 
-## 🛠️ Tecnologias e Ferramentas
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-augusto-ber/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://www.instagram.com/gabrielabl_dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="gabriel.linobernardes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-## 📌 Projetos em destaque
+###
 
-✨ Em breve vou adicionar aqui alguns dos meus projetos mais legais. Enquanto isso, fique à vontade para explorar meus repositórios!
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+</div>
 
-## 📫 Como falar comigo?
+###
 
-Você pode me encontrar por aqui:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph.svg">
+</picture>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-ber/) 
-- ✉️ gabriel.linobernardes@gmail.com
-- 🌐 Em breve: meu portfólio online!
-
-**Obrigado por visitar meu perfil!** 🚀  
-Se curtir algum projeto, não esquece de deixar uma ⭐ ou me chamar pra conversar!
-
+###
