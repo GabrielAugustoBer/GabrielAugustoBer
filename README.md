@@ -53,8 +53,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph.svg">
-</picture>
+![GabrielAugustoBer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoBer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![GabrielAugustoBer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielAugustoBer&theme=vue-dark&hide_border=true)
