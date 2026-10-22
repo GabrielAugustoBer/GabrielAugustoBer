@@ -1,12 +1,19 @@
-<h1 align="left">Gabriel Augusto</h1>
+<h1 align="left">Olá, eu sou o Gabriel Augusto 👋</h1>
 
 ###
 
-<h3 align="left">Suporte ao Cliente | CX | SAP ERP | Graduando em Ciência da Computação | Tech Enthusiast</h3>
+<h3 align="left">Desenvolvedor Front-End | Graduando em Ciência da Computação | Acessibilidade & UI/UX</h3>
 
 ###
 
-<p align="left">🎓 Graduando Ciência da Computação - Uniube<br><br>🎓 Formação técnica em Gestão Administrativa - IFP<br><br>💻 Atualmente focado em Desenvolvimento Front-End<br><br>🌐 Experiência com:<br><br>React.js<br>HTML5 / CSS3<br>Tailwind CSS<br>JavaScript (ES6+)<br>Git e GitHub<br>Acessibilidade e Responsividade<br><br>📚 Sempre aprendendo mais sobre acessibilidade, boas práticas de UI/UX e como tornar a web mais inclusiva e performática.<br><br>📍 Buscando oportunidades onde eu possa crescer profissionalmente e contribuir com projetos que fazem a diferença.</p>
+<p align="left">
+  Sou um desenvolvedor focado em criar interfaces web modernas, responsivas e centradas no usuário. Minha bagagem em <strong>Experiência do Cliente (CX), Suporte e SAP ERP</strong> me proporcionou uma visão estratégica valiosa: entendo como a tecnologia impacta o negócio e facilito a resolução de problemas conectando código de qualidade às reais necessidades do usuário final.
+  <br><br>
+  🎓 <strong>Formação:</strong> Graduando em Ciência da Computação (Uniube) | Téc. em Gestão Administrativa (IFP)<br>
+  💻 <strong>Foco atual:</strong> Desenvolvimento Front-End (React.js, JavaScript ES6+, Tailwind CSS)<br>
+  📚 <strong>Interesses:</strong> Boas práticas de UI/UX, Acessibilidade Web, Clean Code e Performance<br>
+  🚀 Busco oportunidades para construir aplicações inovadoras e transformar ideias em produtos de alto impacto.
+</p>
 
 ###
 
@@ -17,29 +24,31 @@
   <a href="https://www.instagram.com/gabrielabl_dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="gabriel.linobernardes@gmail.com" target="_blank">
+  <a href="mailto:gabriel.linobernardes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="50" alt="discordjs logo"  />
 </div>
 
 ###
@@ -49,5 +58,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielAugustoBer/GabrielAugustoBer/output/pacman-contribution-graph.svg">
 </picture>
-
-###
